@@ -28,7 +28,7 @@ git clone https://github.com/Laxmitripathi67/Flood-script.git
 cd Flood-script
 
 ### Step 2: Install Dependencies
-
+```bash
 pip install requests
 
 ### Step 3: Edit the Target
