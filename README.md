@@ -21,9 +21,10 @@ This Python script performs a burst of HTTP GET requests to a target URL using m
 
 ## 💻 How to Run
 
-### Step 1: Clone this Repository
+### Steps
 
 ```bash
+###Step 1: Clone the repository
 git clone https://github.com/Laxmitripathi67/Flood-script.git
 cd Flood-script
 
